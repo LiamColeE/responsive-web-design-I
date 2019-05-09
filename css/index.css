@@ -441,4 +441,14 @@ li{
 		width: 100%;
 	}
 
+	#header-placeholder.service {
+		margin-bottom:-7px;
+	}
+
+	.double.footer .services-info-img{
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
 }
